@@ -1,0 +1,12 @@
+C:\Users\arago\OneDrive\Escritorio\POE\Registros_RRHH\bin\Debug\Registros_RRHH.exe.config
+C:\Users\arago\OneDrive\Escritorio\POE\Registros_RRHH\bin\Debug\Registros_RRHH.exe
+C:\Users\arago\OneDrive\Escritorio\POE\Registros_RRHH\bin\Debug\Registros_RRHH.pdb
+C:\Users\arago\OneDrive\Escritorio\POE\Registros_RRHH\obj\Debug\Registros_RRHH.csproj.AssemblyReference.cache
+C:\Users\arago\OneDrive\Escritorio\POE\Registros_RRHH\obj\Debug\Registros_RRHH.csproj.SuggestedBindingRedirects.cache
+C:\Users\arago\OneDrive\Escritorio\POE\Registros_RRHH\obj\Debug\Registros_RRHH.Form1.resources
+C:\Users\arago\OneDrive\Escritorio\POE\Registros_RRHH\obj\Debug\Registros_RRHH.Properties.Resources.resources
+C:\Users\arago\OneDrive\Escritorio\POE\Registros_RRHH\obj\Debug\Registros_RRHH.csproj.GenerateResource.cache
+C:\Users\arago\OneDrive\Escritorio\POE\Registros_RRHH\obj\Debug\Registros_RRHH.csproj.CoreCompileInputs.cache
+C:\Users\arago\OneDrive\Escritorio\POE\Registros_RRHH\obj\Debug\Registros_RRHH.exe
+C:\Users\arago\OneDrive\Escritorio\POE\Registros_RRHH\obj\Debug\Registros_RRHH.pdb
+C:\Users\arago\OneDrive\Escritorio\POE\Registros_RRHH\obj\Debug\Registros_RRHH.Form2.resources
